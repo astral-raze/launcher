@@ -129,34 +129,6 @@
             "experienceMultiplier": 0
         },
         {
-            "number": 32,
-            "name": "Arena",
-            "ip": "194.147.32.61",
-            "port": 7777,
-            "online": 220,
-            "maxplayers": 1000,
-            "password": false,
-            "vk": "https://vk.com/casagrandearizona",
-            "tg": "https://t.me/arizona_rpcom",
-            "inst": "https://instagram.com/arizonagames_",
-            "icon": "https://pc.az-ins.com/resource/image/project_icons/18.png",
-            "additionalIps": [
-                "194.147.32.61"
-            ],
-            "plotPoints": [
-                {
-                    "online": 0,
-                    "time": 1732068841
-                },
-                {
-                    "online": 220,
-                    "time": 1732072442
-                }
-            ],
-            "donateMultiplier": 2,
-            "experienceMultiplier": 0
-        },
-        {
             "number": 26,
             "name": "Faraway",
             "ip": "80.66.82.82",
@@ -2542,7 +2514,7 @@
         {
             "number": 30,
             "name": "Love",
-            "ip": "80.66.82.33",
+            "ip": "194.147.32.61",
             "port": 7777,
             "online": 454,
             "maxplayers": 1000,
@@ -2552,7 +2524,7 @@
             "inst": "https://instagram.com/arizonagames_",
             "icon": "https://pc.az-ins.com/resource/image/project_icons/30.png",
             "additionalIps": [
-                "80.66.82.33"
+                "194.147.32.61"
             ],
             "plotPoints": [
                 {
