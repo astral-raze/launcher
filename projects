@@ -188,6 +188,32 @@
 </item>
 </packs>
 </shop>
+<news>
+<item>
+<title>Новогоднее обновление</title>
+<imageUrl>https://api-samp.arizona-five.com/uploads/1704404614750.jpg</imageUrl>
+<url>https://arizona-rp.com/posts/200-novogodnee-obnovlenie-24</url>
+<createDate>1704404801</createDate>
+</item>
+<item>
+<title>Хэллоуинское обновление</title>
+<imageUrl>https://api-samp.arizona-five.com/uploads/1699350870676.jpg</imageUrl>
+<url>https://arizona-rp.com/posts/199-halloweenskoe-obnovleniye</url>
+<createDate>1699350882</createDate>
+</item>
+<item>
+<title>Обновление на День Рождения</title>
+<imageUrl>https://api-samp.arizona-five.com/uploads/1693380561125.jpg</imageUrl>
+<url>https://arizona-rp.com/posts/198-birthday-9</url>
+<createDate>1693380681</createDate>
+</item>
+<item>
+<title>Летнее обновление</title>
+<imageUrl>https://api-samp.arizona-five.com/uploads/1687987591196.jpg</imageUrl>
+<url>https://arizona-rp.com/posts/197-letnee-obnovlenie-2023</url>
+<createDate>1687986195</createDate>
+</item>
+</news>
 <trilogyAvailable>true</trilogyAvailable>
 </item>
 <item>
