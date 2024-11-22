@@ -1,18 +1,19 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <response>
 <item>
 <gameId>arizona</gameId>
-<youtubeVideoUrl>https: //www.youtube.com/watch?v=2iKlqwhVU0A</youtubeVideoUrl>
+<youtubeVideoUrl>https://www.youtube.com/watch?v=2iKlqwhVU0A</youtubeVideoUrl>
 <multipliers>
 <donate>4</donate>
 <experience>4</experience>
 </multipliers>
 <shop>
-<donateHandlerUrl>https: //arizona-rp.com/shop</donateHandlerUrl>
+<donateHandlerUrl>https://arizona-rp.com/shop</donateHandlerUrl>
 <exchangeRate>1</exchangeRate>
 <bundles>
 <item>
 <title>Начинающий ловец</title>
-<image>https: //api-samp.arizona-five.com/launcher/arizona-bundle-1.png</image>
+<image>https://api-samp.arizona-five.com/launcher/arizona-bundle-1.png</image>
 <cash>14000000</cash>
 <items>
 <item>Premium VIP</item>
@@ -20,11 +21,11 @@
 </items>
 <price>2499</price>
 <priceBeforeDiscount>2800</priceBeforeDiscount>
-<url>https: //arizona-rp.com/shop</url>
+<url>https://arizona-rp.com/shop</url>
 </item>
 <item>
 <title>Начинающий магнат</title>
-<image>https: //api-samp.arizona-five.com/launcher/arizona-bundle-2.png</image>
+<image>https://api-samp.arizona-five.com/launcher/arizona-bundle-2.png</image>
 <cash>30000000</cash>
 <items>
 <item>Premium VIP</item>
@@ -33,158 +34,158 @@
 </items>
 <price>3699</price>
 <priceBeforeDiscount>4000</priceBeforeDiscount>
-<url>https: //arizona-rp.com/shop</url>
+<url>https://arizona-rp.com/shop</url>
 </item>
 <item>
 <title>Вечный Premium VIP</title>
-<image>https: //api-samp.arizona-five.com/launcher/premium-vip.png</image>
+<image>https://api-samp.arizona-five.com/launcher/premium-vip.png</image>
 <cash/>
 <items/>
 <price>1999</price>
 <priceBeforeDiscount>3000</priceBeforeDiscount>
-<url>https: //arizona-rp.com/shop</url>
+<url>https://arizona-rp.com/shop</url>
 </item>
 </bundles>
 <packs>
 <item>
 <title>Arizona Pass 2023</title>
-<image>https: //api-samp.arizona-five.com/launcher/arizona-bp.png</image>
+<image>https://api-samp.arizona-five.com/launcher/arizona-bp.png</image>
 <cash/>
 <price>460</price>
 <priceBeforeDiscount>615</priceBeforeDiscount>
-<url>https: //arizona-rp.com/shop</url>
+<url>https://arizona-rp.com/shop</url>
 </item>
 <item>
 <title>Стартовый капитал</title>
-<image>https: //api-samp.arizona-five.com/launcher/arizona-pack-1.png</image>
+<image>https://api-samp.arizona-five.com/launcher/arizona-pack-1.png</image>
 <cash>10500000</cash>
 <price>299</price>
 <priceBeforeDiscount>400</priceBeforeDiscount>
-<url>https: //arizona-rp.com/shop</url>
+<url>https://arizona-rp.com/shop</url>
 </item>
 <item>
 <title>Стартовый капитал</title>
-<image>https: //api-samp.arizona-five.com/launcher/arizona-pack-2.png</image>
+<image>https://api-samp.arizona-five.com/launcher/arizona-pack-2.png</image>
 <cash>24000000</cash>
 <price>599</price>
 <priceBeforeDiscount>700</priceBeforeDiscount>
-<url>https: //arizona-rp.com/shop</url>
+<url>https://arizona-rp.com/shop</url>
 </item>
 <item>
 <title>Стартовый капитал</title>
-<image>https: //api-samp.arizona-five.com/launcher/arizona-pack-3.png</image>
+<image>https://api-samp.arizona-five.com/launcher/arizona-pack-3.png</image>
 <cash>39000000</cash>
 <price>999</price>
 <priceBeforeDiscount>1200</priceBeforeDiscount>
-<url>https: //arizona-rp.com/shop</url>
+<url>https://arizona-rp.com/shop</url>
 </item>
 <item>
 <title>iPhone X и Samsung Galaxy 10</title>
-<image>https: //api-samp.arizona-five.com/launcher/arizona-bundle-3.png</image>
+<image>https://api-samp.arizona-five.com/launcher/arizona-bundle-3.png</image>
 <cash/>
 <items/>
 <price>499</price>
 <priceBeforeDiscount>600</priceBeforeDiscount>
-<url>https: //arizona-rp.com/shop</url>
+<url>https://arizona-rp.com/shop</url>
 </item>
 <item>
 <title>Все лицензии на 5 лет</title>
-<image>https: //api-samp.arizona-five.com/launcher/arizona-bundle-4.png</image>
+<image>https://api-samp.arizona-five.com/launcher/arizona-bundle-4.png</image>
 <cash/>
 <items/>
 <price>499</price>
 <priceBeforeDiscount>600</priceBeforeDiscount>
-<url>https: //arizona-rp.com/shop</url>
+<url>https://arizona-rp.com/shop</url>
 </item>
 <item>
 <title>Нимб, киоск и лейка</title>
-<image>https: //api-samp.arizona-five.com/launcher/arizona-bundle-5.png</image>
+<image>https://api-samp.arizona-five.com/launcher/arizona-bundle-5.png</image>
 <cash/>
 <items/>
 <price>4999</price>
 <priceBeforeDiscount>6250</priceBeforeDiscount>
-<url>https: //arizona-rp.com/shop</url>
+<url>https://arizona-rp.com/shop</url>
 </item>
 <item>
 <title>ADD VIP</title>
-<image>https: //api-samp.arizona-five.com/launcher/arizona-bundle-6.png</image>
+<image>https://api-samp.arizona-five.com/launcher/arizona-bundle-6.png</image>
 <cash/>
 <items/>
 <price>1999</price>
 <priceBeforeDiscount>2500</priceBeforeDiscount>
-<url>https: //arizona-rp.com/shop</url>
+<url>https://arizona-rp.com/shop</url>
 </item>
 <item>
 <title>20 точильных амулетов</title>
-<image>https: //api-samp.arizona-five.com/launcher/arizona-bundle-11.png</image>
+<image>https://api-samp.arizona-five.com/launcher/arizona-bundle-11.png</image>
 <cash/>
 <items/>
 <price>349</price>
 <priceBeforeDiscount/>
-<url>https: //arizona-rp.com/shop</url>
+<url>https://arizona-rp.com/shop</url>
 </item>
 <item>
 <title>100 точильных камней</title>
-<image>https: //api-samp.arizona-five.com/launcher/arizona-bundle-12.png</image>
+<image>https://api-samp.arizona-five.com/launcher/arizona-bundle-12.png</image>
 <cash/>
 <items/>
 <price>149</price>
 <priceBeforeDiscount/>
-<url>https: //arizona-rp.com/shop</url>
+<url>https://arizona-rp.com/shop</url>
 </item>
 <item>
 <title>Toyota LC Prado</title>
-<image>https: //api-samp.arizona-five.com/launcher/arizona-bundle-13.png</image>
+<image>https://api-samp.arizona-five.com/launcher/arizona-bundle-13.png</image>
 <cash/>
 <items/>
 <price>3000</price>
 <priceBeforeDiscount/>
-<url>https: //arizona-rp.com/shop</url>
+<url>https://arizona-rp.com/shop</url>
 </item>
 <item>
 <title>Toyota LC 200</title>
-<image>https: //api-samp.arizona-five.com/launcher/arizona-bundle-14.png</image>
+<image>https://api-samp.arizona-five.com/launcher/arizona-bundle-14.png</image>
 <cash/>
 <items/>
 <price>3600</price>
 <priceBeforeDiscount/>
-<url>https: //arizona-rp.com/shop</url>
+<url>https://arizona-rp.com/shop</url>
 </item>
 <item>
 <title>Mercedes e63 2014</title>
-<image>https: //api-samp.arizona-five.com/launcher/arizona-bundle-16.png</image>
+<image>https://api-samp.arizona-five.com/launcher/arizona-bundle-16.png</image>
 <cash/>
 <items/>
 <price>3300</price>
 <priceBeforeDiscount/>
-<url>https: //arizona-rp.com/shop</url>
+<url>https://arizona-rp.com/shop</url>
 </item>
 <item>
 <title>AUDI Q7 2017</title>
-<image>https: //api-samp.arizona-five.com/launcher/arizona-bundle-17.png</image>
+<image>https://api-samp.arizona-five.com/launcher/arizona-bundle-17.png</image>
 <cash/>
 <items/>
 <price>3450</price>
 <priceBeforeDiscount/>
-<url>https: //arizona-rp.com/shop</url>
+<url>https://arizona-rp.com/shop</url>
 </item>
 <item>
 <title>Toyota Supra 2020</title>
-<image>https: //api-samp.arizona-five.com/launcher/arizona-bundle-18.png</image>
+<image>https://api-samp.arizona-five.com/launcher/arizona-bundle-18.png</image>
 <cash/>
 <items/>
 <price>4800</price>
 <priceBeforeDiscount/>
-<url>https: //arizona-rp.com/shop</url>
+<url>https://arizona-rp.com/shop</url>
 </item>
 <item>
 <title>BMW 6</title>
-<image>https: //api-samp.arizona-five.com/launcher/arizona-bundle-19.png</image>
+<image>https://api-samp.arizona-five.com/launcher/arizona-bundle-19.png</image>
 <cash/>
 <items/>
 <price>4200</price>
 <priceBeforeDiscount/>
-<url>https: //arizona-rp.com/shop</url>
+<url>https://arizona-rp.com/shop</url>
 </item>
 </packs>
 </shop>
@@ -218,65 +219,65 @@
 </item>
 <item>
 <gameId>rodina</gameId>
-<youtubeVideoUrl>https: //www.youtube.com/watch?v=zzhiAaYUN0M</youtubeVideoUrl>
+<youtubeVideoUrl>https://www.youtube.com/watch?v=zzhiAaYUN0M</youtubeVideoUrl>
 <multipliers>
 <donate>4</donate>
 <experience>4</experience>
 </multipliers>
 <shop>
-<donateHandlerUrl>https: //rodina-rp.com/donate</donateHandlerUrl>
+<donateHandlerUrl>https://rodina-rp.com/donate</donateHandlerUrl>
 <exchangeRate>1</exchangeRate>
 <bundles/>
 <packs>
 <item>
 <title>Стартовый</title>
-<image>https: //api-samp.arizona-five.com/launcher/rodina-pack-1.png</image>
+<image>https://api-samp.arizona-five.com/launcher/rodina-pack-1.png</image>
 <cash>5000000</cash>
 <price>300</price>
 <priceBeforeDiscount>450</priceBeforeDiscount>
-<url>https: //rodina-rp.com/donate</url>
+<url>https://rodina-rp.com/donate</url>
 </item>
 <item>
 <title>Богатенький</title>
-<image>https: //api-samp.arizona-five.com/launcher/rodina-pack-2.png</image>
+<image>https://api-samp.arizona-five.com/launcher/rodina-pack-2.png</image>
 <cash>8500000</cash>
 <price>500</price>
 <priceBeforeDiscount>800</priceBeforeDiscount>
-<url>https: //rodina-rp.com/donate</url>
+<url>https://rodina-rp.com/donate</url>
 </item>
 <item>
 <title>Большой запас</title>
-<image>https: //api-samp.arizona-five.com/launcher/rodina-pack-3.png</image>
+<image>https://api-samp.arizona-five.com/launcher/rodina-pack-3.png</image>
 <cash>35000000</cash>
 <price>2000</price>
 <priceBeforeDiscount>2500</priceBeforeDiscount>
-<url>https: //rodina-rp.com/donate</url>
+<url>https://rodina-rp.com/donate</url>
 </item>
 </packs>
 </shop>
 <news>
 <item>
 <title>Хэллоуинское безумие!</title>
-<imageUrl>https: //i.ytimg.com/vi/6alxjcyiAt8/maxresdefault.jpg</imageUrl>
-<url>https: //youtu.be/6alxjcyiAt8</url>
+<imageUrl>https://i.ytimg.com/vi/6alxjcyiAt8/maxresdefault.jpg</imageUrl>
+<url>https://youtu.be/6alxjcyiAt8</url>
 <createDate>1730570397</createDate>
 </item>
 <item>
 <title>Нам 8 лет!</title>
-<imageUrl>https: //i.ytimg.com/vi/mu1FAUmqxak/maxresdefault.jpg</imageUrl>
-<url>https: //youtu.be/mu1FAUmqxak</url>
+<imageUrl>https://i.ytimg.com/vi/mu1FAUmqxak/maxresdefault.jpg</imageUrl>
+<url>https://youtu.be/mu1FAUmqxak</url>
 <createDate>1727112745</createDate>
 </item>
 <item>
 <title>Пасхальное обновление</title>
-<imageUrl>https: //i.ytimg.com/vi/geuUc65-vb8/maxresdefault.jpg</imageUrl>
-<url>https: //youtu.be/geuUc65-vb8</url>
+<imageUrl>https://i.ytimg.com/vi/geuUc65-vb8/maxresdefault.jpg</imageUrl>
+<url>https://youtu.be/geuUc65-vb8</url>
 <createDate>1715214927</createDate>
 </item>
 <item>
 <title>Родина Онлайн вышла!</title>
-<imageUrl>https: //i.ytimg.com/vi/VNoDKdxTD2E/maxresdefault.jpg</imageUrl>
-<url>https: //youtu.be/VNoDKdxTD2E</url>
+<imageUrl>https://i.ytimg.com/vi/VNoDKdxTD2E/maxresdefault.jpg</imageUrl>
+<url>https://youtu.be/VNoDKdxTD2E</url>
 <createDate>1711856695</createDate>
 </item>
 </news>
@@ -288,7 +289,7 @@
 <experience>1</experience>
 </multipliers>
 <shop>
-<donateHandlerUrl>https: //arizona-v.com/#/donate</donateHandlerUrl>
+<donateHandlerUrl>https://arizona-v.com/#/donate</donateHandlerUrl>
 <exchangeRate>1</exchangeRate>
 <bundles/>
 <packs/>
@@ -296,26 +297,26 @@
 <news>
 <item>
 <title>Самое глобальное обновление</title>
-<imageUrl>https: //api-samp.arizona-five.com/uploads/1713717596724.jpg</imageUrl>
-<url>https: //arizona-v.com/#/desc?id=40</url>
+<imageUrl>https://api-samp.arizona-five.com/uploads/1713717596724.jpg</imageUrl>
+<url>https://arizona-v.com/#/desc?id=40</url>
 <createDate>1713717660</createDate>
 </item>
 <item>
 <title>Зимнее обновление</title>
-<imageUrl>https: //api-samp.arizona-five.com/uploads/1704671800401.jpg</imageUrl>
-<url>https: //arizona-v.com/#/desc?id=39</url>
+<imageUrl>https://api-samp.arizona-five.com/uploads/1704671800401.jpg</imageUrl>
+<url>https://arizona-v.com/#/desc?id=39</url>
 <createDate>1704671897</createDate>
 </item>
 <item>
 <title>Хэллоуинский РЕЙВ</title>
-<imageUrl>https: //api-samp.arizona-five.com/uploads/1699633213862.jpg</imageUrl>
-<url>https: //arizona-v.com/#/desc?id=38</url>
+<imageUrl>https://api-samp.arizona-five.com/uploads/1699633213862.jpg</imageUrl>
+<url>https://arizona-v.com/#/desc?id=38</url>
 <createDate>1699633256</createDate>
 </item>
 <item>
 <title>Осеннее обновление</title>
-<imageUrl>https: //api-samp.arizona-five.com/uploads/1696799941073.jpg</imageUrl>
-<url>https: //arizona-v.com/#/desc?id=37</url>
+<imageUrl>https://api-samp.arizona-five.com/uploads/1696799941073.jpg</imageUrl>
+<url>https://arizona-v.com/#/desc?id=37</url>
 <createDate>1696800014</createDate>
 </item>
 </news>
@@ -335,26 +336,26 @@
 <news>
 <item>
 <title>Новогоднее обновление</title>
-<imageUrl>https: //api-samp.arizona-five.com/uploads/1641458067974.jpg</imageUrl>
-<url>https: //bone-country.ru/news/view/44</url>
+<imageUrl>https://api-samp.arizona-five.com/uploads/1641458067974.jpg</imageUrl>
+<url>https://bone-country.ru/news/view/44</url>
 <createDate>1641458428</createDate>
 </item>
 <item>
 <title>Большое обновление 2021</title>
-<imageUrl>https: //api-samp.arizona-five.com/uploads/1639569015432.jpg</imageUrl>
-<url>https: //bone-country.ru/news/view/43</url>
+<imageUrl>https://api-samp.arizona-five.com/uploads/1639569015432.jpg</imageUrl>
+<url>https://bone-country.ru/news/view/43</url>
 <createDate>1639569191</createDate>
 </item>
 <item>
 <title>Обновление на Halloween</title>
-<imageUrl>https: //api-samp.arizona-five.com//uploads/1635773748811.jpg</imageUrl>
-<url>https: //bone-country.ru/news/view/42</url>
+<imageUrl>https://api-samp.arizona-five.com//uploads/1635773748811.jpg</imageUrl>
+<url>https://bone-country.ru/news/view/42</url>
 <createDate>1635773877</createDate>
 </item>
 <item>
 <title>Нам 2 года!</title>
-<imageUrl>https: //api-samp.arizona-five.com/uploads/1628796706086.jpg</imageUrl>
-<url>https: //bone-country.ru/news/view/41</url>
+<imageUrl>https://api-samp.arizona-five.com/uploads/1628796706086.jpg</imageUrl>
+<url>https://bone-country.ru/news/view/41</url>
 <createDate>1628796747</createDate>
 </item>
 </news>
