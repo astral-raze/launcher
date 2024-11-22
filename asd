@@ -1,1 +1,1 @@
-{"arizona":[{"number":1,"name":"Arena","ip":"185.169.134.43","port":7777,"online":0,"maxplayers":666,"password":true,"vk":"","tg":"","inst":"","icon":"https://github.com/astral-raze/launcher/blob/main/asd.png?raw=true"}]}
+{"arizona":[{"number":1,"name":"Arena","ip":"127.0.0.1","port":7777,"online":0,"maxplayers":666,"password":true,"vk":"","tg":"","inst":"","icon":"https://github.com/astral-raze/launcher/blob/main/asd.png?raw=true"}]}
